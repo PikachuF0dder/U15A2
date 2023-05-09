@@ -12,16 +12,10 @@ U15A2/src/... => source code (HTML, CSS) for the website
 
 ```
     U15A2
-    ├───assets
-    ├───doc
-    │   ├───Design
-    │   ├───Implementation
-    │   ├───Plan
-    │   ├───Requirements
-    │   ├───Review
-    │   └───Test
-    └───src
-        ├───css
-        ├───html
-        └───js
+        ├───doc
+        │   ├───design
+        │   ├───implementation
+        │   └───requirements
+        └───src
+            └───css
 ```
