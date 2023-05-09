@@ -11,7 +11,7 @@ U15A2/doc/... => documentation, brief, specification and .doc work yet to be imp
 U15A2/src/... => source code (HTML, CSS) for the website
 
 ```
-    C:
+    U15A2
     ├───assets
     ├───doc
     │   ├───Design

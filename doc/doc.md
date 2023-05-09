@@ -8,8 +8,8 @@
     - [Content](#content)
     - [Time Management](#time-management)
   - [Design](#design)
-    - [Wireframes/Storyboard](#wireframesstoryboard)
-    - [Colourschemes](#colourschemes)
+    - [Wire frames/Storyboard](#wire-framesstoryboard)
+    - [Colour schemes](#colour-schemes)
     - [Typography](#typography)
     - [Navigation](#navigation)
     - [Alternative Design](#alternative-design)
@@ -28,7 +28,7 @@
     - [Outstanding Errors](#outstanding-errors)
   - [Review](#review)
     - [Feedback Response](#feedback-response)
-    - [Evalutation](#evalutation)
+    - [Evaluation](#evaluation)
     - [References](#references)
 
 ## Requirements
@@ -47,9 +47,9 @@ I plan to create a static website using bootstrap components. I will use both st
 
 ## Design
 
-### Wireframes/Storyboard
+### Wire frames/Storyboard
 
-### Colourschemes
+### Colour schemes
 
 ### Typography
 
@@ -99,6 +99,6 @@ I plan to create a static website using bootstrap components. I will use both st
 
 ### Feedback Response
 
-### Evalutation
+### Evaluation
 
 ### References
