@@ -10,16 +10,18 @@ U15A2/doc/... => documentation, brief, specification and .doc work yet to be imp
 
 U15A2/src/... => source code (HTML, CSS) for the website
 
-C:.
-├───assets
-├───doc
-│   ├───Design
-│   ├───Implementation
-│   ├───Plan
-│   ├───Requirements
-│   ├───Review
-│   └───Test
-└───src
-    ├───css
-    ├───html
-    └───js
+```
+    C:.
+    ├───assets
+    ├───doc
+    │   ├───Design
+    │   ├───Implementation
+    │   ├───Plan
+    │   ├───Requirements
+    │   ├───Review
+    │   └───Test
+    └───src
+        ├───css
+        ├───html
+        └───js
+```
