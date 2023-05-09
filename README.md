@@ -9,3 +9,17 @@ U15A2/assets/... => images for other files
 U15A2/doc/... => documentation, brief, specification and .doc work yet to be implemented into the later "main.md" document (currently doc.md)
 
 U15A2/src/... => source code (HTML, CSS) for the website
+
+C:.
+├───assets
+├───doc
+│   ├───Design
+│   ├───Implementation
+│   ├───Plan
+│   ├───Requirements
+│   ├───Review
+│   └───Test
+└───src
+    ├───css
+    ├───html
+    └───js
